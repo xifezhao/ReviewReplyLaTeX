@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{hyperref}
+\usepackage{pifont}
+	\def\papertitle{Papers requiring a response.}
+	\def\journal{\href{https://cje.ejournal.org.cn/}{\textsl{Chinese Journal of Electronics}}}
+	\def\authors{Zhao Xiaofei on behalf of all co-authors. or Speaking as the corresponding author and representing all co-authors.}
+	\def\doi{12345}
+\input{AR_to_RC.tex}
+
+\section{Reviewer \#1}
+
+\subsection{Page 3 Line 15}
+
+\RC Why ... ?.
+
+\AR I do not agree.
+
+\par\noindent\hfill\ding{100}\hfill\mbox{} %  示例符号，可以替换为其他 ding 符号
+
+\subsection{Major concern \#3}
+
+\RC What ... ?
+
+\AR Ok, I changed this:
+
+\begin{quote}
+The cat in the box is \DIFdelbegin \DIFdel{dead}\DIFdelend \DIFaddbegin \DIFadd{alive}\DIFaddend .
+\begin{align}
+E &= mc^2 \\
+m\cdot \DIFdelbegin \DIFdel{a=F}\DIFdelend \DIFaddbegin \DIFadd{v=p}\DIFaddend .
+\end{align}
+\end{quote}
+
+\AR*But I actually have no idea what you were talking about.
+
+\hrule
+
+\section{Reviewer \#2}
+
+\end{document}
