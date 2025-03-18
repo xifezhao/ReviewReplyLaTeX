@@ -23,15 +23,3 @@ A simple and well-structured LaTeX template for crafting effective responses to 
 ## Customization
 
 Feel free to customize the template to match specific requirements or your personal preferences. You can modify the formatting, add or remove sections as needed.
-
-## Contributing
-
-Contributions, suggestions, and bug reports are welcome! Please feel free to open issues or submit pull requests.
-
-## License
-
-[Specify your license here, e.g., MIT License]
-
-## Contact
-
-[Your Name/Email (Optional)]
