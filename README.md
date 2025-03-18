@@ -1,5 +1,7 @@
 # LaTeX Review Response Letter Template
 
+> This template is modified from the original version available at [https://github.com/mschroen/review_response_letter](https://github.com/mschroen/review_response_letter).
+
 A simple and well-structured LaTeX template for crafting effective responses to reviewers for academic paper submissions.
 
 ## Key Features
